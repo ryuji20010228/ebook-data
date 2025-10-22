@@ -1,0 +1,26 @@
+[
+  {
+    "id": "B0AAA11111",
+    "title": "会計の基本が面白いほどわかる本",
+    "author": "山田 太郎",
+    "price_current": 499,
+    "price_list": 1500,
+    "url": "https://www.amazon.co.jp/dp/B0AAA11111"
+  },
+  {
+    "id": "B0BBB22222",
+    "title": "原価計算入門",
+    "author": "佐藤 花子",
+    "price_current": 699,
+    "price_list": 1760,
+    "url": "https://www.amazon.co.jp/dp/B0BBB22222"
+  },
+  {
+    "id": "B0CCC33333",
+    "title": "監査論の第一歩",
+    "author": "鈴木 次郎",
+    "price_current": 399,
+    "price_list": 1320,
+    "url": "https://www.amazon.co.jp/dp/B0CCC33333"
+  }
+]
