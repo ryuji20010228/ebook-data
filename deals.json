@@ -6,6 +6,7 @@
     "price_current": 499,
     "price_list": 1500,
     "url": "https://www.amazon.co.jp/dp/B0AAA11111"
+    "cover": "https://m.media-amazon.com/images/I/81N4-EXAMPLE._SL500_.jpg"
   },
   {
     "id": "B0BBB22222",
@@ -14,6 +15,7 @@
     "price_current": 699,
     "price_list": 1760,
     "url": "https://www.amazon.co.jp/dp/B0BBB22222"
+    "cover": "https://m.media-amazon.com/images/I/71Y-EXAMPLE._SL500_.jpg"
   },
   {
     "id": "B0CCC33333",
@@ -22,5 +24,6 @@
     "price_current": 399,
     "price_list": 1320,
     "url": "https://www.amazon.co.jp/dp/B0CCC33333"
+    "cover": "https://m.media-amazon.com/images/I/61Z-EXAMPLE._SL500_.jpg"
   }
 ]
